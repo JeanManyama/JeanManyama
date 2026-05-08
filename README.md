@@ -54,7 +54,7 @@ Application de suivi de production industrielle en temps réel.
 
 ## 🔗 Liens
 
-🌐 Portfolio : https://ton-portfolio.vercel.app
+🌐 Portfolio : [https://portfolio-sandy-ten-1c4i3fg995.vercel.app](https://portfolio-sandy-ten-1c4i3fg995.vercel.app/)
 
 💻 Frontend :
 [https://github.com/JeanManyama/kalhyge-prod-frontend](https://github.com/JeanManyama/kalhyge-prod-frontend)
