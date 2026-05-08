@@ -60,7 +60,7 @@ Application de suivi de production industrielle en temps réel.
 [https://github.com/JeanManyama/kalhyge-prod-frontend](https://github.com/JeanManyama/kalhyge-prod-frontend)
 
 ⚙️ Backend :
-[https://github.com/JeanManyama/ton-back](https://github.com/JeanManyama/api-kalhygee)
+[https://github.com/JeanManyama/kalhyge-prod-backend](https://github.com/JeanManyama/kalhyge-prod-backend)
 
 ---
 
