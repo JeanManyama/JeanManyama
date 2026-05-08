@@ -57,7 +57,7 @@ Application de suivi de production industrielle en temps réel.
 🌐 Portfolio : https://ton-portfolio.vercel.app
 
 💻 Frontend :
-[https://github.com/JeanManyama/ton-front](https://github.com/JeanManyama/kalhyge-prod-frontend)
+[https://github.com/JeanManyama/kalhyge-prod-frontend](https://github.com/JeanManyama/kalhyge-prod-frontend)
 
 ⚙️ Backend :
 [https://github.com/JeanManyama/ton-back](https://github.com/JeanManyama/api-kalhygee)
