@@ -27,6 +27,7 @@ Application de suivi de production industrielle en temps réel.
 
 ### Frontend
 - React
+- Vue.js
 - JavaScript
 - HTML5
 - CSS3
@@ -40,6 +41,7 @@ Application de suivi de production industrielle en temps réel.
 ### DevOps
 - GitHub Actions
 - CI/CD
+- Docker
 - Déploiement cloud
 - Vercel
 - Render
